@@ -1,0 +1,37 @@
+Unsorted Unique
+
+Real runtime values obtained: 
+real	0m0.105s
+real	0m0.099s
+real	0m0.100s
+
+Average: 0m0.101s
+
+Unsorted Parity
+
+Real runtime values obtained:
+real	0m0.318s
+real	0m0.318s
+real	0m0.317s
+
+Average: 0m0.318s
+
+----------------------------------------- 
+
+Sorted Unique
+
+Real runtime values obtained:
+real	0m0.079s
+real	0m0.087s
+real	0m0.079s
+
+Average: 0m0.082s
+
+Sorted Parity
+
+Real runtime values obtained:
+real	0m0.058s
+real	0m0.028s
+real	0m0.028s
+
+Average: 0m0.038s
